@@ -6,5 +6,5 @@ Project Website : OLX
 Tech Stacks : HTML, CSS, Javascript
 Duration : 5 Days
 Responsiveness : Partially Responsive
-Solo Project
+Solo Project 
 
